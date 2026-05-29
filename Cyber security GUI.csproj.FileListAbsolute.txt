@@ -1,0 +1,23 @@
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI_MarkupCompile.cache
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\bin\Debug\net8.0-windows\Cyber security GUI.exe
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\bin\Debug\net8.0-windows\Cyber security GUI.deps.json
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\bin\Debug\net8.0-windows\Cyber security GUI.runtimeconfig.json
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\bin\Debug\net8.0-windows\Cyber security GUI.dll
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\bin\Debug\net8.0-windows\Cyber security GUI.pdb
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI.g.resources
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI.AssemblyInfo.cs
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI.dll
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\refint\Cyber security GUI.dll
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI.pdb
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI.genruntimeconfig.cache
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\ref\Cyber security GUI.dll
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber security GUI.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\bin\Debug\net8.0-windows\System.Speech.dll
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Speech.dll
+C:\Users\Student\source\repos\Cyber security GUI\Cyber security GUI\obj\Debug\net8.0-windows\Cyber se.1E7B0895.Up2Date
